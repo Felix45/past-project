@@ -20,25 +20,18 @@ To get a local copy up and running follow these simple example steps.
   A browser
 ```
 ### Setup
-Clone the repository and change the directory to portfolio
-
+Clone the repository and change the directory to past-project
 ``` 
-  $ git clone git@github.com:Felix45/adopt-an-orphan.git
+  $ git clone git@github.com:Felix45/review-past-project.git
 
-  $ cd adopt-an-orphan
+  $ cd past-project
 
 ```
 
-### Install
-Install all project dependencies by running the command below
- 
-``` 
-  $ npm install
-```
 ### Usage
 Start the http application server
 ``` 
-  $ http-server
+  Open with live server
 ```
 
 ### Deployment
@@ -57,16 +50,11 @@ Start the http application server
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Felix45/adopt-an-orphan/issues).
+Feel free to check the [issues page](https://github.com/Felix45/past-project/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to [Microverse](https://bit.ly/MicroverseTN) for giving me this project to work on and [Cindy Shin](https://www.behance.net/adagio07), for using her design.
-- Hat tip to [Pexels](https://www.pexels.com/collections/side-profiles-d1j9mjy/) free stock photos and [SVG Repo](https://www.svgrepo.com) for the svg icons used in this design.
 
 ## 📝 License
 
